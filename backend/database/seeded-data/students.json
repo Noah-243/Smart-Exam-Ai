@@ -1,0 +1,542 @@
+[
+  {
+    "_id": "683607268aeca14588dd8a4f",
+    "user": "683607268aeca14588dd8a50",
+    "grade": "683607178aeca14588dd8933",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:38.468Z",
+    "updatedAt": "2025-05-27T18:40:38.468Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607268aeca14588dd8a54",
+    "user": "683607268aeca14588dd8a55",
+    "grade": "683607178aeca14588dd8933",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:38.825Z",
+    "updatedAt": "2025-05-27T18:40:38.825Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607268aeca14588dd8a59",
+    "user": "683607268aeca14588dd8a5a",
+    "grade": "683607178aeca14588dd8933",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:39.184Z",
+    "updatedAt": "2025-05-27T18:40:39.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607278aeca14588dd8a5e",
+    "user": "683607278aeca14588dd8a5f",
+    "grade": "683607178aeca14588dd8933",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:39.534Z",
+    "updatedAt": "2025-05-27T18:40:39.534Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607278aeca14588dd8a63",
+    "user": "683607278aeca14588dd8a64",
+    "grade": "683607178aeca14588dd8933",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:39.889Z",
+    "updatedAt": "2025-05-27T18:40:39.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607288aeca14588dd8a68",
+    "user": "683607288aeca14588dd8a69",
+    "grade": "683607178aeca14588dd8934",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:40.238Z",
+    "updatedAt": "2025-05-27T18:40:40.238Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607288aeca14588dd8a6d",
+    "user": "683607288aeca14588dd8a6e",
+    "grade": "683607178aeca14588dd8934",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:40.583Z",
+    "updatedAt": "2025-05-27T18:40:40.583Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607288aeca14588dd8a72",
+    "user": "683607288aeca14588dd8a73",
+    "grade": "683607178aeca14588dd8934",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:40.934Z",
+    "updatedAt": "2025-05-27T18:40:40.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607298aeca14588dd8a77",
+    "user": "683607298aeca14588dd8a78",
+    "grade": "683607178aeca14588dd8934",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:41.285Z",
+    "updatedAt": "2025-05-27T18:40:41.285Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607298aeca14588dd8a7c",
+    "user": "683607298aeca14588dd8a7d",
+    "grade": "683607178aeca14588dd8934",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:41.645Z",
+    "updatedAt": "2025-05-27T18:40:41.645Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607298aeca14588dd8a81",
+    "user": "683607298aeca14588dd8a82",
+    "grade": "683607178aeca14588dd8935",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:42.007Z",
+    "updatedAt": "2025-05-27T18:40:42.007Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072a8aeca14588dd8a86",
+    "user": "6836072a8aeca14588dd8a87",
+    "grade": "683607178aeca14588dd8935",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:42.361Z",
+    "updatedAt": "2025-05-27T18:40:42.361Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072a8aeca14588dd8a8b",
+    "user": "6836072a8aeca14588dd8a8c",
+    "grade": "683607178aeca14588dd8935",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:42.708Z",
+    "updatedAt": "2025-05-27T18:40:42.708Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072a8aeca14588dd8a90",
+    "user": "6836072a8aeca14588dd8a91",
+    "grade": "683607178aeca14588dd8935",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:43.057Z",
+    "updatedAt": "2025-05-27T18:40:43.057Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072b8aeca14588dd8a95",
+    "user": "6836072b8aeca14588dd8a96",
+    "grade": "683607178aeca14588dd8935",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:43.408Z",
+    "updatedAt": "2025-05-27T18:40:43.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072b8aeca14588dd8a9a",
+    "user": "6836072b8aeca14588dd8a9b",
+    "grade": "683607178aeca14588dd8936",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:43.754Z",
+    "updatedAt": "2025-05-27T18:40:43.754Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072b8aeca14588dd8a9f",
+    "user": "6836072b8aeca14588dd8aa0",
+    "grade": "683607178aeca14588dd8936",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:44.104Z",
+    "updatedAt": "2025-05-27T18:40:44.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072c8aeca14588dd8aa4",
+    "user": "6836072c8aeca14588dd8aa5",
+    "grade": "683607178aeca14588dd8936",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:44.458Z",
+    "updatedAt": "2025-05-27T18:40:44.458Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072c8aeca14588dd8aa9",
+    "user": "6836072c8aeca14588dd8aaa",
+    "grade": "683607178aeca14588dd8936",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:44.805Z",
+    "updatedAt": "2025-05-27T18:40:44.805Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072c8aeca14588dd8aae",
+    "user": "6836072c8aeca14588dd8aaf",
+    "grade": "683607178aeca14588dd8936",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:45.153Z",
+    "updatedAt": "2025-05-27T18:40:45.153Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072d8aeca14588dd8ab3",
+    "user": "6836072d8aeca14588dd8ab4",
+    "grade": "683607178aeca14588dd8937",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:45.502Z",
+    "updatedAt": "2025-05-27T18:40:45.502Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072d8aeca14588dd8ab8",
+    "user": "6836072d8aeca14588dd8ab9",
+    "grade": "683607178aeca14588dd8937",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:45.849Z",
+    "updatedAt": "2025-05-27T18:40:45.849Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072d8aeca14588dd8abd",
+    "user": "6836072d8aeca14588dd8abe",
+    "grade": "683607178aeca14588dd8937",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:46.200Z",
+    "updatedAt": "2025-05-27T18:40:46.200Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072e8aeca14588dd8ac2",
+    "user": "6836072e8aeca14588dd8ac3",
+    "grade": "683607178aeca14588dd8937",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:46.550Z",
+    "updatedAt": "2025-05-27T18:40:46.550Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072e8aeca14588dd8ac7",
+    "user": "6836072e8aeca14588dd8ac8",
+    "grade": "683607178aeca14588dd8937",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:46.907Z",
+    "updatedAt": "2025-05-27T18:40:46.907Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072f8aeca14588dd8acc",
+    "user": "6836072f8aeca14588dd8acd",
+    "grade": "683607178aeca14588dd8938",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:47.257Z",
+    "updatedAt": "2025-05-27T18:40:47.257Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072f8aeca14588dd8ad1",
+    "user": "6836072f8aeca14588dd8ad2",
+    "grade": "683607178aeca14588dd8938",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:47.608Z",
+    "updatedAt": "2025-05-27T18:40:47.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836072f8aeca14588dd8ad6",
+    "user": "6836072f8aeca14588dd8ad7",
+    "grade": "683607178aeca14588dd8938",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:47.956Z",
+    "updatedAt": "2025-05-27T18:40:47.956Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607308aeca14588dd8adb",
+    "user": "683607308aeca14588dd8adc",
+    "grade": "683607178aeca14588dd8938",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:48.304Z",
+    "updatedAt": "2025-05-27T18:40:48.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607308aeca14588dd8ae0",
+    "user": "683607308aeca14588dd8ae1",
+    "grade": "683607178aeca14588dd8938",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:48.654Z",
+    "updatedAt": "2025-05-27T18:40:48.654Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607308aeca14588dd8ae5",
+    "user": "683607308aeca14588dd8ae6",
+    "grade": "683607178aeca14588dd8939",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:49.001Z",
+    "updatedAt": "2025-05-27T18:40:49.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607318aeca14588dd8aea",
+    "user": "683607318aeca14588dd8aeb",
+    "grade": "683607178aeca14588dd8939",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:49.351Z",
+    "updatedAt": "2025-05-27T18:40:49.351Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607318aeca14588dd8aef",
+    "user": "683607318aeca14588dd8af0",
+    "grade": "683607178aeca14588dd8939",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:49.700Z",
+    "updatedAt": "2025-05-27T18:40:49.700Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607318aeca14588dd8af4",
+    "user": "683607318aeca14588dd8af5",
+    "grade": "683607178aeca14588dd8939",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:50.052Z",
+    "updatedAt": "2025-05-27T18:40:50.052Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607328aeca14588dd8af9",
+    "user": "683607328aeca14588dd8afa",
+    "grade": "683607178aeca14588dd8939",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:50.407Z",
+    "updatedAt": "2025-05-27T18:40:50.407Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607328aeca14588dd8afe",
+    "user": "683607328aeca14588dd8aff",
+    "grade": "683607178aeca14588dd893a",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:50.757Z",
+    "updatedAt": "2025-05-27T18:40:50.757Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607328aeca14588dd8b03",
+    "user": "683607328aeca14588dd8b04",
+    "grade": "683607178aeca14588dd893a",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:51.104Z",
+    "updatedAt": "2025-05-27T18:40:51.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607338aeca14588dd8b08",
+    "user": "683607338aeca14588dd8b09",
+    "grade": "683607178aeca14588dd893a",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:51.454Z",
+    "updatedAt": "2025-05-27T18:40:51.454Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607338aeca14588dd8b0d",
+    "user": "683607338aeca14588dd8b0e",
+    "grade": "683607178aeca14588dd893a",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:51.803Z",
+    "updatedAt": "2025-05-27T18:40:51.803Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607338aeca14588dd8b12",
+    "user": "683607338aeca14588dd8b13",
+    "grade": "683607178aeca14588dd893a",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:52.149Z",
+    "updatedAt": "2025-05-27T18:40:52.149Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607348aeca14588dd8b17",
+    "user": "683607348aeca14588dd8b18",
+    "grade": "683607178aeca14588dd893b",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:52.495Z",
+    "updatedAt": "2025-05-27T18:40:52.495Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607348aeca14588dd8b1c",
+    "user": "683607348aeca14588dd8b1d",
+    "grade": "683607178aeca14588dd893b",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:52.851Z",
+    "updatedAt": "2025-05-27T18:40:52.851Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607348aeca14588dd8b21",
+    "user": "683607348aeca14588dd8b22",
+    "grade": "683607178aeca14588dd893b",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:53.202Z",
+    "updatedAt": "2025-05-27T18:40:53.202Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607358aeca14588dd8b26",
+    "user": "683607358aeca14588dd8b27",
+    "grade": "683607178aeca14588dd893b",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:53.553Z",
+    "updatedAt": "2025-05-27T18:40:53.553Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607358aeca14588dd8b2b",
+    "user": "683607358aeca14588dd8b2c",
+    "grade": "683607178aeca14588dd893b",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:53.903Z",
+    "updatedAt": "2025-05-27T18:40:53.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607368aeca14588dd8b30",
+    "user": "683607368aeca14588dd8b31",
+    "grade": "683607178aeca14588dd893c",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:54.251Z",
+    "updatedAt": "2025-05-27T18:40:54.251Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607368aeca14588dd8b35",
+    "user": "683607368aeca14588dd8b36",
+    "grade": "683607178aeca14588dd893c",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:54.597Z",
+    "updatedAt": "2025-05-27T18:40:54.597Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607368aeca14588dd8b3a",
+    "user": "683607368aeca14588dd8b3b",
+    "grade": "683607178aeca14588dd893c",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:54.947Z",
+    "updatedAt": "2025-05-27T18:40:54.947Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607378aeca14588dd8b3f",
+    "user": "683607378aeca14588dd8b40",
+    "grade": "683607178aeca14588dd893c",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:55.299Z",
+    "updatedAt": "2025-05-27T18:40:55.299Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607378aeca14588dd8b44",
+    "user": "683607378aeca14588dd8b45",
+    "grade": "683607178aeca14588dd893c",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:55.648Z",
+    "updatedAt": "2025-05-27T18:40:55.648Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607378aeca14588dd8b49",
+    "user": "683607378aeca14588dd8b4a",
+    "grade": "683607178aeca14588dd893d",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:55.994Z",
+    "updatedAt": "2025-05-27T18:40:55.994Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607388aeca14588dd8b4e",
+    "user": "683607388aeca14588dd8b4f",
+    "grade": "683607178aeca14588dd893d",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:56.348Z",
+    "updatedAt": "2025-05-27T18:40:56.348Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607388aeca14588dd8b53",
+    "user": "683607388aeca14588dd8b54",
+    "grade": "683607178aeca14588dd893d",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:56.693Z",
+    "updatedAt": "2025-05-27T18:40:56.693Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607388aeca14588dd8b58",
+    "user": "683607388aeca14588dd8b59",
+    "grade": "683607178aeca14588dd893d",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:57.052Z",
+    "updatedAt": "2025-05-27T18:40:57.052Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607398aeca14588dd8b5d",
+    "user": "683607398aeca14588dd8b5e",
+    "grade": "683607178aeca14588dd893d",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:57.399Z",
+    "updatedAt": "2025-05-27T18:40:57.399Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607398aeca14588dd8b62",
+    "user": "683607398aeca14588dd8b63",
+    "grade": "683607178aeca14588dd893e",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:57.752Z",
+    "updatedAt": "2025-05-27T18:40:57.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "683607398aeca14588dd8b67",
+    "user": "683607398aeca14588dd8b68",
+    "grade": "683607178aeca14588dd893e",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:58.103Z",
+    "updatedAt": "2025-05-27T18:40:58.103Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836073a8aeca14588dd8b6c",
+    "user": "6836073a8aeca14588dd8b6d",
+    "grade": "683607178aeca14588dd893e",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:58.458Z",
+    "updatedAt": "2025-05-27T18:40:58.458Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836073a8aeca14588dd8b71",
+    "user": "6836073a8aeca14588dd8b72",
+    "grade": "683607178aeca14588dd893e",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:58.803Z",
+    "updatedAt": "2025-05-27T18:40:58.803Z",
+    "__v": 0
+  },
+  {
+    "_id": "6836073a8aeca14588dd8b76",
+    "user": "6836073a8aeca14588dd8b77",
+    "grade": "683607178aeca14588dd893e",
+    "examResults": [],
+    "createdAt": "2025-05-27T18:40:59.164Z",
+    "updatedAt": "2025-05-27T18:40:59.164Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,68 @@
+/**
+ * QuestionStyles.css
+ *
+ * This stylesheet defines the layout and visual styling for components related
+ * to displaying and editing questions and answers in the system.
+ * It is intended for use in a React application with components such as:
+ * - Question Display Form
+ * - Answer Options Section
+ * - Tag Editor
+ * - Control Panels and Select Menus
+ *
+ * The classes use Flexbox and Grid layouts to manage spacing, alignment,
+ * and responsive design. Error styles and form field adjustments are also included.
+ */
+ 
+.displayQuestionContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.questionParametersContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.answerOptionsContainer {
+	display: flex;
+	justify-content: start;
+	gap: 1rem;
+}
+
+.questionControlPanel {
+	display: flex;
+	gap: 1.5rem;
+}
+
+.answerChoicesContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+}
+
+.answerParametersContainer {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	place-items: center;
+	text-align: center;
+}
+
+.tagContainer {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+}
+
+.error {
+	color: #ff4444;
+	font-size: 0.8rem;
+	margin-top: 4px;
+	display: block;
+}
+
+.optionSelect {
+	min-width: 200px;
+	margin-bottom: 1rem;
+}

@@ -1,0 +1,33 @@
+/**
+ * calendarStyles.css – Styles for the calendar view and event indicators.
+ *
+ * This stylesheet defines layout and appearance for:
+ * - The main calendar container
+ * - Small event badges inside calendar days
+ * - A scrollable event list section
+ */
+
+/* Main container for the calendar section */
+.calendar-container {
+	padding: 20px;
+	max-width: 800px;
+	margin: auto;
+}
+
+/* Small circular indicator showing an event exists on a calendar day */
+.event-badge {
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background-color: #1976d2;
+	position: absolute;
+	bottom: 2px;
+	right: 2px;
+}
+
+/* Scrollable list of events */
+.event-list {
+	padding: 16px;
+	height: 100%;
+	overflow-y: auto;
+}

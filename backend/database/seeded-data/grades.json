@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "683607178aeca14588dd8933",
+    "name": "First Grade",
+    "level": 1,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd8934",
+    "name": "Second Grade",
+    "level": 2,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd8935",
+    "name": "Third Grade",
+    "level": 3,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd8936",
+    "name": "Fourth Grade",
+    "level": 4,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd8937",
+    "name": "Fifth Grade",
+    "level": 5,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd8939",
+    "name": "Seventh Grade",
+    "level": 7,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd8938",
+    "name": "Sixth Grade",
+    "level": 6,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd893a",
+    "name": "Eighth Grade",
+    "level": 8,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd893c",
+    "name": "Tenth Grade",
+    "level": 10,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd893d",
+    "name": "Eleventh Grade",
+    "level": 11,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd893b",
+    "name": "Ninth Grade",
+    "level": 9,
+    "__v": 0
+  },
+  {
+    "_id": "683607178aeca14588dd893e",
+    "name": "Twelfth Grade",
+    "level": 12,
+    "__v": 0
+  }
+]

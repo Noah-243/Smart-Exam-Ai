@@ -1,0 +1,157 @@
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	font-weight: 500;
+	text-decoration: inherit;
+}
+
+body {
+	margin: 0;
+	min-width: 320px;
+	min-height: 100vh;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+	font-size: 3.2em;
+	line-height: 1.1;
+}
+
+button {
+	border-radius: 8px;
+	border: 1px solid transparent;
+	padding: 0.6em 1.2em;
+	font-size: 1em;
+	font-weight: 500;
+	font-family: inherit;
+	cursor: pointer;
+	transition: border-color 0.25s;
+}
+button:focus,
+button:focus-visible {
+	outline: 4px auto -webkit-focus-ring-color;
+}
+
+.optionSelect {
+	width: 80%;
+	height: fit-content;
+	border: 0.5px solid rgba(255, 255, 255, 0.87);
+}
+
+.tagContainer {
+	display: flex;
+	gap: 1rem;
+	flex-wrap: wrap;
+}
+
+/* RTL Support */
+html[dir="rtl"] * {
+	text-align: right;
+}
+
+html[dir="rtl"] .utton-startIcon {
+	margin-right: 0;
+	margin-left: 8px;
+}
+
+html[dir="rtl"] .MuiButton-endIcon {
+	margin-left: 0;
+	margin-right: 8px;
+}
+
+html[dir="rtl"] .MuiListItemIcon-root {
+	margin-right: 0;
+	margin-left: 16px;
+}
+
+/* Fix for RTL menus */
+html[dir="rtl"] .MuiMenu-paper {
+	text-align: right;
+}
+
+/* RTL specific adjustments for forms */
+html[dir="rtl"] .MuiInputLabel-root {
+	right: 0;
+	left: auto;
+	transform-origin: 100% 0;
+}
+
+html[dir="rtl"] .MuiInputBase-input {
+	text-align: right;
+}
+
+/* RTL specific adjustments for dialogs */
+html[dir="rtl"] .MuiDialogTitle-root {
+	text-align: right;
+}
+
+/* RTL specific adjustments for tables */
+html[dir="rtl"] .MuiTableCell-root {
+	text-align: right;
+}
+
+/* RTL Support Classes */
+.rtl-mode {
+	direction: rtl;
+}
+
+.ltr-mode {
+	direction: ltr;
+}
+
+/* Enhanced RTL TextField Support */
+.rtl-mode .MuiTextField-root {
+	direction: rtl;
+}
+
+.rtl-mode .MuiTextField-root .MuiInputLabel-root {
+	transform-origin: top right !important;
+	right: 14px;
+	left: auto;
+}
+
+.rtl-mode .MuiTextField-root .MuiInputLabel-shrunk {
+	transform-origin: top right !important;
+}
+
+.rtl-mode .MuiTextField-root .MuiInputBase-input {
+	text-align: right;
+	padding-right: 14px;
+	padding-left: 12px;
+}
+
+.rtl-mode .MuiInputAdornment-positionEnd {
+	margin-left: 0;
+	margin-right: 8px;
+}
+
+.rtl-mode .MuiInputAdornment-positionStart {
+	margin-left: 8px;
+	margin-right: 0;
+}
+
+/* Prevent label overflow in Hebrew */
+.rtl-mode .MuiInputLabel-root {
+	max-width: calc(100% - 32px);
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.rtl-mode .MuiInputLabel-shrunk {
+	max-width: calc(133% - 32px);
+	overflow: visible;
+}
