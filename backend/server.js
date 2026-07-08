@@ -141,18 +141,26 @@ app.use(
 			if (!origin) return callback(null, true);
 
 			// Allow all localhost origins in development
-			if (
-				process.env.NODE_ENV === "development" &&
-				(origin.startsWith("http://localhost:") ||
-					origin.startsWith("http://127.0.0.1:"))
-			) {
-				console.log("✅ CORS: Development localhost origin allowed");
-				return callback(null, true);
-			}
+			const allowedOrigins = [
+	"https://smart-exam-ai-frontend.onrender.com",
+];
 
-			console.log("❌ CORS: Origin not allowed");
-			callback(new Error("Not allowed by CORS"));
-		},
+if (
+	process.env.NODE_ENV === "development" &&
+	(origin.startsWith("http://localhost:") ||
+		origin.startsWith("http://127.0.0.1:"))
+) {
+	console.log("✅ CORS: Development localhost origin allowed");
+	return callback(null, true);
+}
+
+if (allowedOrigins.includes(origin)) {
+	console.log("✅ CORS: Production origin allowed");
+	return callback(null, true);
+}
+
+console.log("❌ CORS: Origin not allowed");
+callback(new Error("Not allowed by CORS"));
 		credentials: true,
 		methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
 		allowedHeaders: [
