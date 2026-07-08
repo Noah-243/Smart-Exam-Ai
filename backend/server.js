@@ -137,43 +137,39 @@ app.use(
 		origin: function (origin, callback) {
 			console.log(`🌐 CORS request from origin: ${origin || "no-origin"}`);
 
-			// Allow requests with no origin (like mobile apps or curl requests)
-			if (!origin) return callback(null, true);
-
-			// Allow all localhost origins in development
 			const allowedOrigins = [
-	"https://smart-exam-ai-frontend.onrender.com",
-];
+				"http://localhost:5173",
+				"http://127.0.0.1:5173",
+				"https://smart-exam-ai-frontend.onrender.com",
+			];
 
-if (
-	process.env.NODE_ENV === "development" &&
-	(origin.startsWith("http://localhost:") ||
-		origin.startsWith("http://127.0.0.1:"))
-) {
-	console.log("✅ CORS: Development localhost origin allowed");
-	return callback(null, true);
-}
+			if (!origin) {
+				return callback(null, true);
+			}
 
-if (allowedOrigins.includes(origin)) {
-	console.log("✅ CORS: Production origin allowed");
-	return callback(null, true);
-}
+			if (allowedOrigins.includes(origin)) {
+				console.log("✅ CORS: Origin allowed");
+				return callback(null, true);
+			}
 
-console.log("❌ CORS: Origin not allowed");
-callback(new Error("Not allowed by CORS"));
+			console.log("❌ CORS: Origin not allowed:", origin);
+			return callback(new Error("Not allowed by CORS"));
+		},
 		credentials: true,
-		methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-		allowedHeaders: [
-			"Content-Type",
-			"Authorization",
-			"Access-Control-Allow-Credentials",
-		],
+	})
+);
+methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+	allowedHeaders: [
+		"Content-Type",
+		"Authorization",
+		"Access-Control-Allow-Credentials",
+	],
 		exposedHeaders: [
 			"Content-Length",
 			"X-Requested-With",
 			"Access-Control-Allow-Credentials",
 		],
-		optionsSuccessStatus: 200,
+			optionsSuccessStatus: 200,
 	})
 );
 
@@ -200,8 +196,7 @@ const limiter = rateLimit({
 });
 app.use("/api", limiter);
 console.log(
-	`⏱️ Rate limiting: ${process.env.RATE_LIMIT_MAX || 100} requests per ${
-		process.env.RATE_LIMIT_WINDOW || 15
+	`⏱️ Rate limiting: ${process.env.RATE_LIMIT_MAX || 100} requests per ${process.env.RATE_LIMIT_WINDOW || 15
 	} minutes`
 );
 
