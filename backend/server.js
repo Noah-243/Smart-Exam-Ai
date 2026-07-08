@@ -143,9 +143,7 @@ app.use(
 				"https://smart-exam-ai-frontend.onrender.com",
 			];
 
-			if (!origin) {
-				return callback(null, true);
-			}
+			if (!origin) return callback(null, true);
 
 			if (allowedOrigins.includes(origin)) {
 				console.log("✅ CORS: Origin allowed");
@@ -156,20 +154,18 @@ app.use(
 			return callback(new Error("Not allowed by CORS"));
 		},
 		credentials: true,
-	})
-);
-methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-	allowedHeaders: [
-		"Content-Type",
-		"Authorization",
-		"Access-Control-Allow-Credentials",
-	],
+		methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+		allowedHeaders: [
+			"Content-Type",
+			"Authorization",
+			"Access-Control-Allow-Credentials",
+		],
 		exposedHeaders: [
 			"Content-Length",
 			"X-Requested-With",
 			"Access-Control-Allow-Credentials",
 		],
-			optionsSuccessStatus: 200,
+		optionsSuccessStatus: 200,
 	})
 );
 
