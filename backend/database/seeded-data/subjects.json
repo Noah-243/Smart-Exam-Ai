@@ -1,92 +1,135 @@
 [
   {
-    "_id": "683607188aeca14588dd8955",
-    "name": "Physics",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8959",
-    "name": "Statistics",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8954",
+    "_id": "6a4bc31ad5b0d7ba7f0cda0c",
     "name": "Mathematics",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
     "__v": 0
   },
   {
-    "_id": "683607188aeca14588dd8956",
+    "_id": "6a4bc31ad5b0d7ba7f0cda11",
+    "name": "Information Systems",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda0d",
+    "name": "Physics",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda0e",
     "name": "Chemistry",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
     "__v": 0
   },
   {
-    "_id": "683607188aeca14588dd8957",
+    "_id": "6a4bc31ad5b0d7ba7f0cda0f",
     "name": "Biology",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
     "__v": 0
   },
   {
-    "_id": "683607188aeca14588dd8958",
-    "name": "Computer Science",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd895a",
-    "name": "English",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd895e",
-    "name": "History",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd895d",
-    "name": "Literature",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8960",
-    "name": "Economics",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8961",
-    "name": "Political Science",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd895f",
-    "name": "Geography",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8963",
-    "name": "Music",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8962",
-    "name": "Art",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8964",
-    "name": "Physical Education",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd8965",
-    "name": "Philosophy",
-    "__v": 0
-  },
-  {
-    "_id": "683607188aeca14588dd895b",
+    "_id": "6a4bc31ad5b0d7ba7f0cda14",
     "name": "Spanish",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
     "__v": 0
   },
   {
-    "_id": "683607188aeca14588dd895c",
+    "_id": "6a4bc31ad5b0d7ba7f0cda10",
+    "name": "Computer Science",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda15",
     "name": "French",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda17",
+    "name": "History",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda1a",
+    "name": "Political Science",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda16",
+    "name": "Literature",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda19",
+    "name": "Economics",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda1b",
+    "name": "Art",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda18",
+    "name": "Geography",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda1d",
+    "name": "Physical Education",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda1e",
+    "name": "Philosophy",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda1c",
+    "name": "Music",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda13",
+    "name": "English",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc31ad5b0d7ba7f0cda12",
+    "name": "Statistics",
+    "createdAt": "2026-07-06T15:00:42.134Z",
+    "updatedAt": "2026-07-06T15:00:42.134Z",
     "__v": 0
   }
 ]

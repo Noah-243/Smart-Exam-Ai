@@ -247,8 +247,70 @@ export default function AddUserForm({ open, onClose }) {
 					<Box sx={{ display: "flex", flexDirection: "column", gap: 2 }}>
 						{error && <Alert severity="error">{error}</Alert>}
 
-						{/* Basic User Info */}
-						{/* ... all form fields stay unchanged ... */}
+						<TextField label="Name" name="name" value={formData.name} onChange={handleChange} fullWidth required />
+
+<TextField label="Email" name="email" type="email" value={formData.email} onChange={handleChange} fullWidth required />
+
+<TextField label="Password" name="password" type="password" value={formData.password} onChange={handleChange} fullWidth required />
+
+<FormControl fullWidth required>
+  <InputLabel>Role</InputLabel>
+  <Select name="role" value={formData.role} label="Role" onChange={handleChange}>
+    <MenuItem value="student">Student</MenuItem>
+    <MenuItem value="teacher">Teacher</MenuItem>
+    <MenuItem value="admin">Admin</MenuItem>
+  </Select>
+</FormControl>
+
+{formData.role === "student" && (
+  <FormControl fullWidth required>
+    <InputLabel>Grade</InputLabel>
+    <Select name="grade" value={formData.grade} label="Grade" onChange={handleChange}>
+      {grades.map((grade) => (
+        <MenuItem key={grade._id} value={grade._id}>
+          {grade.name || grade.gradeName || grade.title}
+        </MenuItem>
+      ))}
+    </Select>
+  </FormControl>
+)}
+
+{formData.role === "teacher" && (
+  <>
+    <TextField label="Specialization" name="specialization" value={formData.specialization} onChange={handleChange} fullWidth required />
+
+    <Autocomplete
+      multiple
+      options={subjects}
+      value={selectedSubjects}
+      onChange={handleSubjectChange}
+      getOptionLabel={(option) => option.name || option.subjectName || option.title || ""}
+      renderInput={(params) => (
+        <TextField {...params} label="Subjects" placeholder="Select subjects" />
+      )}
+    />
+
+    {selectedSubjects.map((subject) => (
+      <FormControl key={subject._id} fullWidth required>
+        <InputLabel>Grades for {subject.name || subject.subjectName || subject.title}</InputLabel>
+        <Select
+          multiple
+          value={selectedGrades[subject._id] || []}
+          label={`Grades for ${subject.name || subject.subjectName || subject.title}`}
+          onChange={(event) => handleGradeChange(subject._id, event)}
+        >
+          {grades.map((grade) => (
+            <MenuItem key={grade._id} value={grade._id}>
+              {grade.name || grade.gradeName || grade.title}
+            </MenuItem>
+          ))}
+        </Select>
+      </FormControl>
+    ))}
+  </>
+)}
+
+
 					</Box>
 				</DialogContent>
 				<DialogActions>

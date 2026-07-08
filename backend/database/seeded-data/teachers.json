@@ -1,735 +1,728 @@
 [
   {
-    "_id": "6836071a8aeca14588dd897d",
-    "user": "6836071a8aeca14588dd897e",
+    "_id": "6a4bc31bd5b0d7ba7f0cda37",
+    "user": "6a4bc31bd5b0d7ba7f0cda38",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd8933",
-          "683607178aeca14588dd8934",
-          "683607178aeca14588dd8935"
+          "6a4bc318d5b0d7ba7f0cd9e8",
+          "6a4bc318d5b0d7ba7f0cd9e9",
+          "6a4bc318d5b0d7ba7f0cd9ea"
         ],
-        "_id": "6836071a8aeca14588dd8981"
+        "_id": "6a4bc31bd5b0d7ba7f0cda3b"
+      },
+      {
+        "subject": "6a4bc31ad5b0d7ba7f0cda12",
+        "grades": [
+          "6a4bc318d5b0d7ba7f0cd9e6",
+          "6a4bc318d5b0d7ba7f0cd9e7",
+          "6a4bc318d5b0d7ba7f0cd9e8",
+          "6a4bc318d5b0d7ba7f0cd9e9"
+        ],
+        "_id": "6a4bc31bd5b0d7ba7f0cda3c"
       }
     ],
     "specializations": [
       "Mathematics"
     ],
-    "createdAt": "2025-05-27T18:40:26.463Z",
-    "updatedAt": "2025-05-27T18:40:26.463Z",
+    "createdAt": "2026-07-06T15:00:43.908Z",
+    "updatedAt": "2026-07-06T15:00:43.908Z",
     "__v": 0
   },
   {
-    "_id": "6836071a8aeca14588dd8983",
-    "user": "6836071a8aeca14588dd8984",
+    "_id": "6a4bc31bd5b0d7ba7f0cda3e",
+    "user": "6a4bc31bd5b0d7ba7f0cda3f",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd8934",
-          "683607178aeca14588dd8935",
-          "683607178aeca14588dd8936"
+          "6a4bc318d5b0d7ba7f0cd9ec",
+          "6a4bc318d5b0d7ba7f0cd9ed",
+          "6a4bc318d5b0d7ba7f0cd9ee"
         ],
-        "_id": "6836071a8aeca14588dd8987"
+        "_id": "6a4bc31cd5b0d7ba7f0cda42"
       },
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd8938",
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a"
+          "6a4bc318d5b0d7ba7f0cd9ed",
+          "6a4bc318d5b0d7ba7f0cd9ee",
+          "6a4bc318d5b0d7ba7f0cd9ef",
+          "6a4bc318d5b0d7ba7f0cd9f0"
         ],
-        "_id": "6836071a8aeca14588dd8988"
+        "_id": "6a4bc31cd5b0d7ba7f0cda43"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:26.814Z",
-    "updatedAt": "2025-05-27T18:40:26.814Z",
+    "createdAt": "2026-07-06T15:00:44.162Z",
+    "updatedAt": "2026-07-06T15:00:44.162Z",
     "__v": 0
   },
   {
-    "_id": "6836071a8aeca14588dd898a",
-    "user": "6836071a8aeca14588dd898b",
+    "_id": "6a4bc31cd5b0d7ba7f0cda45",
+    "user": "6a4bc31cd5b0d7ba7f0cda46",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b",
-          "683607178aeca14588dd893c"
+          "6a4bc318d5b0d7ba7f0cd9eb",
+          "6a4bc318d5b0d7ba7f0cd9ec",
+          "6a4bc318d5b0d7ba7f0cd9ed"
         ],
-        "_id": "6836071b8aeca14588dd898e"
+        "_id": "6a4bc31cd5b0d7ba7f0cda49"
       },
       {
-        "subject": "683607188aeca14588dd8958",
+        "subject": "6a4bc31ad5b0d7ba7f0cda10",
         "grades": [
-          "683607178aeca14588dd8938",
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b",
-          "683607178aeca14588dd893c"
+          "6a4bc318d5b0d7ba7f0cd9e9",
+          "6a4bc318d5b0d7ba7f0cd9ea",
+          "6a4bc318d5b0d7ba7f0cd9eb",
+          "6a4bc318d5b0d7ba7f0cd9ec"
         ],
-        "_id": "6836071b8aeca14588dd898f"
+        "_id": "6a4bc31cd5b0d7ba7f0cda4a"
       }
     ],
     "specializations": [
       "Computer Science"
     ],
-    "createdAt": "2025-05-27T18:40:27.168Z",
-    "updatedAt": "2025-05-27T18:40:27.168Z",
+    "createdAt": "2026-07-06T15:00:44.416Z",
+    "updatedAt": "2026-07-06T15:00:44.416Z",
     "__v": 0
   },
   {
-    "_id": "6836071b8aeca14588dd8991",
-    "user": "6836071b8aeca14588dd8992",
+    "_id": "6a4bc31cd5b0d7ba7f0cda4c",
+    "user": "6a4bc31cd5b0d7ba7f0cda4d",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd895a",
+        "subject": "6a4bc31ad5b0d7ba7f0cda13",
         "grades": [
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b",
-          "683607178aeca14588dd893c",
-          "683607178aeca14588dd893d"
+          "6a4bc318d5b0d7ba7f0cd9ec",
+          "6a4bc318d5b0d7ba7f0cd9ed",
+          "6a4bc318d5b0d7ba7f0cd9ee"
         ],
-        "_id": "6836071b8aeca14588dd8995"
-      },
-      {
-        "subject": "683607188aeca14588dd895d",
-        "grades": [
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b",
-          "683607178aeca14588dd893c"
-        ],
-        "_id": "6836071b8aeca14588dd8996"
+        "_id": "6a4bc31cd5b0d7ba7f0cda50"
       }
     ],
     "specializations": [
       "English Literature"
     ],
-    "createdAt": "2025-05-27T18:40:27.520Z",
-    "updatedAt": "2025-05-27T18:40:27.520Z",
+    "createdAt": "2026-07-06T15:00:44.668Z",
+    "updatedAt": "2026-07-06T15:00:44.668Z",
     "__v": 0
   },
   {
-    "_id": "6836071b8aeca14588dd8998",
-    "user": "6836071b8aeca14588dd8999",
+    "_id": "6a4bc31cd5b0d7ba7f0cda52",
+    "user": "6a4bc31cd5b0d7ba7f0cda53",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd895b",
+        "subject": "6a4bc31ad5b0d7ba7f0cda14",
         "grades": [
-          "683607178aeca14588dd8937",
-          "683607178aeca14588dd8938",
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a"
+          "6a4bc318d5b0d7ba7f0cd9eb",
+          "6a4bc318d5b0d7ba7f0cd9ec",
+          "6a4bc318d5b0d7ba7f0cd9ed",
+          "6a4bc318d5b0d7ba7f0cd9ee"
         ],
-        "_id": "6836071b8aeca14588dd899c"
-      },
-      {
-        "subject": "683607188aeca14588dd895c",
-        "grades": [
-          "683607178aeca14588dd8938",
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b",
-          "683607178aeca14588dd893c"
-        ],
-        "_id": "6836071b8aeca14588dd899d"
+        "_id": "6a4bc31cd5b0d7ba7f0cda56"
       }
     ],
     "specializations": [
       "Foreign Languages"
     ],
-    "createdAt": "2025-05-27T18:40:27.867Z",
-    "updatedAt": "2025-05-27T18:40:27.867Z",
+    "createdAt": "2026-07-06T15:00:44.932Z",
+    "updatedAt": "2026-07-06T15:00:44.932Z",
     "__v": 0
   },
   {
-    "_id": "6836071c8aeca14588dd899f",
-    "user": "6836071c8aeca14588dd89a0",
+    "_id": "6a4bc31dd5b0d7ba7f0cda58",
+    "user": "6a4bc31dd5b0d7ba7f0cda59",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd895e",
+        "subject": "6a4bc31ad5b0d7ba7f0cda17",
         "grades": [
-          "683607178aeca14588dd8935",
-          "683607178aeca14588dd8936",
-          "683607178aeca14588dd8937",
-          "683607178aeca14588dd8938",
-          "683607178aeca14588dd8939"
+          "6a4bc318d5b0d7ba7f0cd9e7",
+          "6a4bc318d5b0d7ba7f0cd9e8",
+          "6a4bc318d5b0d7ba7f0cd9e9"
         ],
-        "_id": "6836071c8aeca14588dd89a3"
+        "_id": "6a4bc31dd5b0d7ba7f0cda5c"
+      },
+      {
+        "subject": "6a4bc31ad5b0d7ba7f0cda18",
+        "grades": [
+          "6a4bc318d5b0d7ba7f0cd9e6",
+          "6a4bc318d5b0d7ba7f0cd9e7",
+          "6a4bc318d5b0d7ba7f0cd9e8"
+        ],
+        "_id": "6a4bc31dd5b0d7ba7f0cda5d"
       }
     ],
     "specializations": [
       "Social Studies"
     ],
-    "createdAt": "2025-05-27T18:40:28.216Z",
-    "updatedAt": "2025-05-27T18:40:28.216Z",
+    "createdAt": "2026-07-06T15:00:45.261Z",
+    "updatedAt": "2026-07-06T15:00:45.261Z",
     "__v": 0
   },
   {
-    "_id": "6836071c8aeca14588dd89a5",
-    "user": "6836071c8aeca14588dd89a6",
+    "_id": "6a4bc31dd5b0d7ba7f0cda5f",
+    "user": "6a4bc31dd5b0d7ba7f0cda60",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8962",
+        "subject": "6a4bc31ad5b0d7ba7f0cda1b",
         "grades": [
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b",
-          "683607178aeca14588dd893c",
-          "683607178aeca14588dd893d"
+          "6a4bc318d5b0d7ba7f0cd9ea",
+          "6a4bc318d5b0d7ba7f0cd9eb",
+          "6a4bc318d5b0d7ba7f0cd9ec",
+          "6a4bc318d5b0d7ba7f0cd9ed"
         ],
-        "_id": "6836071c8aeca14588dd89a9"
+        "_id": "6a4bc31dd5b0d7ba7f0cda63"
       },
       {
-        "subject": "683607188aeca14588dd8963",
+        "subject": "6a4bc31ad5b0d7ba7f0cda1c",
         "grades": [
-          "683607178aeca14588dd8936",
-          "683607178aeca14588dd8937",
-          "683607178aeca14588dd8938"
+          "6a4bc318d5b0d7ba7f0cd9eb",
+          "6a4bc318d5b0d7ba7f0cd9ec",
+          "6a4bc318d5b0d7ba7f0cd9ed",
+          "6a4bc318d5b0d7ba7f0cd9ee"
         ],
-        "_id": "6836071c8aeca14588dd89aa"
+        "_id": "6a4bc31dd5b0d7ba7f0cda64"
       }
     ],
     "specializations": [
       "Arts"
     ],
-    "createdAt": "2025-05-27T18:40:28.572Z",
-    "updatedAt": "2025-05-27T18:40:28.572Z",
+    "createdAt": "2026-07-06T15:00:45.561Z",
+    "updatedAt": "2026-07-06T15:00:45.561Z",
     "__v": 0
   },
   {
-    "_id": "6836071c8aeca14588dd89ac",
-    "user": "6836071c8aeca14588dd89ad",
+    "_id": "6a4bc31dd5b0d7ba7f0cda66",
+    "user": "6a4bc31dd5b0d7ba7f0cda67",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8964",
+        "subject": "6a4bc31ad5b0d7ba7f0cda1d",
         "grades": [
-          "683607178aeca14588dd8933",
-          "683607178aeca14588dd8934",
-          "683607178aeca14588dd8935"
+          "6a4bc318d5b0d7ba7f0cd9e6",
+          "6a4bc318d5b0d7ba7f0cd9e7",
+          "6a4bc318d5b0d7ba7f0cd9e8"
         ],
-        "_id": "6836071c8aeca14588dd89b0"
+        "_id": "6a4bc31dd5b0d7ba7f0cda6a"
       }
     ],
     "specializations": [
       "Physical Education"
     ],
-    "createdAt": "2025-05-27T18:40:28.924Z",
-    "updatedAt": "2025-05-27T18:40:28.924Z",
+    "createdAt": "2026-07-06T15:00:45.832Z",
+    "updatedAt": "2026-07-06T15:00:45.832Z",
     "__v": 0
   },
   {
-    "_id": "6836071d8aeca14588dd89b2",
-    "user": "6836071d8aeca14588dd89b3",
+    "_id": "6a4bc31dd5b0d7ba7f0cda6c",
+    "user": "6a4bc31dd5b0d7ba7f0cda6d",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd895e",
+        "subject": "6a4bc31ad5b0d7ba7f0cda17",
         "grades": [
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b",
-          "683607178aeca14588dd893c",
-          "683607178aeca14588dd893d"
+          "6a4bc318d5b0d7ba7f0cd9e8",
+          "6a4bc318d5b0d7ba7f0cd9e9",
+          "6a4bc318d5b0d7ba7f0cd9ea",
+          "6a4bc318d5b0d7ba7f0cd9eb",
+          "6a4bc318d5b0d7ba7f0cd9ec"
         ],
-        "_id": "6836071d8aeca14588dd89b6"
+        "_id": "6a4bc31ed5b0d7ba7f0cda70"
       },
       {
-        "subject": "683607188aeca14588dd8965",
+        "subject": "6a4bc31ad5b0d7ba7f0cda1e",
         "grades": [
-          "683607178aeca14588dd8937",
-          "683607178aeca14588dd8938",
-          "683607178aeca14588dd8939",
-          "683607178aeca14588dd893a",
-          "683607178aeca14588dd893b"
+          "6a4bc318d5b0d7ba7f0cd9ea",
+          "6a4bc318d5b0d7ba7f0cd9eb",
+          "6a4bc318d5b0d7ba7f0cd9ec"
         ],
-        "_id": "6836071d8aeca14588dd89b7"
+        "_id": "6a4bc31ed5b0d7ba7f0cda71"
       }
     ],
     "specializations": [
       "Philosophy"
     ],
-    "createdAt": "2025-05-27T18:40:29.278Z",
-    "updatedAt": "2025-05-27T18:40:29.278Z",
+    "createdAt": "2026-07-06T15:00:46.108Z",
+    "updatedAt": "2026-07-06T15:00:46.108Z",
     "__v": 0
   },
   {
-    "_id": "6836071d8aeca14588dd89b9",
-    "user": "6836071d8aeca14588dd89ba",
+    "_id": "6a4bc31ed5b0d7ba7f0cda73",
+    "user": "6a4bc31ed5b0d7ba7f0cda74",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd8936"
+          "6a4bc318d5b0d7ba7f0cd9e6"
         ],
-        "_id": "6836071d8aeca14588dd89bd"
+        "_id": "6a4bc31ed5b0d7ba7f0cda77"
       }
     ],
     "specializations": [
       "Mathematics"
     ],
-    "createdAt": "2025-05-27T18:40:29.639Z",
-    "updatedAt": "2025-05-27T18:40:29.639Z",
+    "createdAt": "2026-07-06T15:00:46.361Z",
+    "updatedAt": "2026-07-06T15:00:46.361Z",
     "__v": 0
   },
   {
-    "_id": "6836071d8aeca14588dd89bf",
-    "user": "6836071d8aeca14588dd89c0",
+    "_id": "6a4bc31ed5b0d7ba7f0cda79",
+    "user": "6a4bc31ed5b0d7ba7f0cda7a",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd8937"
+          "6a4bc318d5b0d7ba7f0cd9e7"
         ],
-        "_id": "6836071d8aeca14588dd89c3"
+        "_id": "6a4bc31ed5b0d7ba7f0cda7d"
       }
     ],
     "specializations": [
       "Mathematics"
     ],
-    "createdAt": "2025-05-27T18:40:29.988Z",
-    "updatedAt": "2025-05-27T18:40:29.988Z",
+    "createdAt": "2026-07-06T15:00:46.608Z",
+    "updatedAt": "2026-07-06T15:00:46.608Z",
     "__v": 0
   },
   {
-    "_id": "6836071e8aeca14588dd89c5",
-    "user": "6836071e8aeca14588dd89c6",
+    "_id": "6a4bc31ed5b0d7ba7f0cda7f",
+    "user": "6a4bc31ed5b0d7ba7f0cda80",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd8938"
+          "6a4bc318d5b0d7ba7f0cd9ee"
         ],
-        "_id": "6836071e8aeca14588dd89c9"
+        "_id": "6a4bc31ed5b0d7ba7f0cda83"
       }
     ],
     "specializations": [
       "Mathematics"
     ],
-    "createdAt": "2025-05-27T18:40:30.338Z",
-    "updatedAt": "2025-05-27T18:40:30.338Z",
+    "createdAt": "2026-07-06T15:00:46.856Z",
+    "updatedAt": "2026-07-06T15:00:46.856Z",
     "__v": 0
   },
   {
-    "_id": "6836071e8aeca14588dd89cb",
-    "user": "6836071e8aeca14588dd89cc",
+    "_id": "6a4bc31ed5b0d7ba7f0cda85",
+    "user": "6a4bc31ed5b0d7ba7f0cda86",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd8939"
+          "6a4bc318d5b0d7ba7f0cd9ef"
         ],
-        "_id": "6836071e8aeca14588dd89cf"
+        "_id": "6a4bc31fd5b0d7ba7f0cda89"
       }
     ],
     "specializations": [
       "Mathematics"
     ],
-    "createdAt": "2025-05-27T18:40:30.688Z",
-    "updatedAt": "2025-05-27T18:40:30.688Z",
+    "createdAt": "2026-07-06T15:00:47.112Z",
+    "updatedAt": "2026-07-06T15:00:47.112Z",
     "__v": 0
   },
   {
-    "_id": "6836071e8aeca14588dd89d1",
-    "user": "6836071e8aeca14588dd89d2",
+    "_id": "6a4bc31fd5b0d7ba7f0cda8b",
+    "user": "6a4bc31fd5b0d7ba7f0cda8c",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd893d"
+          "6a4bc318d5b0d7ba7f0cd9f0"
         ],
-        "_id": "6836071f8aeca14588dd89d5"
+        "_id": "6a4bc31fd5b0d7ba7f0cda8f"
       }
     ],
     "specializations": [
       "Mathematics"
     ],
-    "createdAt": "2025-05-27T18:40:31.043Z",
-    "updatedAt": "2025-05-27T18:40:31.043Z",
+    "createdAt": "2026-07-06T15:00:47.362Z",
+    "updatedAt": "2026-07-06T15:00:47.362Z",
     "__v": 0
   },
   {
-    "_id": "6836071f8aeca14588dd89d7",
-    "user": "6836071f8aeca14588dd89d8",
+    "_id": "6a4bc31fd5b0d7ba7f0cda91",
+    "user": "6a4bc31fd5b0d7ba7f0cda92",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8954",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0c",
         "grades": [
-          "683607178aeca14588dd893e"
+          "6a4bc318d5b0d7ba7f0cd9f1"
         ],
-        "_id": "6836071f8aeca14588dd89db"
+        "_id": "6a4bc31fd5b0d7ba7f0cda95"
       }
     ],
     "specializations": [
       "Mathematics"
     ],
-    "createdAt": "2025-05-27T18:40:31.396Z",
-    "updatedAt": "2025-05-27T18:40:31.396Z",
+    "createdAt": "2026-07-06T15:00:47.618Z",
+    "updatedAt": "2026-07-06T15:00:47.618Z",
     "__v": 0
   },
   {
-    "_id": "6836071f8aeca14588dd89dd",
-    "user": "6836071f8aeca14588dd89de",
+    "_id": "6a4bc31fd5b0d7ba7f0cda97",
+    "user": "6a4bc31fd5b0d7ba7f0cda98",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd8933"
+          "6a4bc318d5b0d7ba7f0cd9e6"
         ],
-        "_id": "6836071f8aeca14588dd89e1"
+        "_id": "6a4bc31fd5b0d7ba7f0cda9b"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:31.743Z",
-    "updatedAt": "2025-05-27T18:40:31.743Z",
+    "createdAt": "2026-07-06T15:00:47.873Z",
+    "updatedAt": "2026-07-06T15:00:47.873Z",
     "__v": 0
   },
   {
-    "_id": "6836071f8aeca14588dd89e3",
-    "user": "6836071f8aeca14588dd89e4",
+    "_id": "6a4bc31fd5b0d7ba7f0cda9d",
+    "user": "6a4bc31fd5b0d7ba7f0cda9e",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd8937"
+          "6a4bc318d5b0d7ba7f0cd9e7"
         ],
-        "_id": "683607208aeca14588dd89e7"
+        "_id": "6a4bc320d5b0d7ba7f0cdaa1"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:32.100Z",
-    "updatedAt": "2025-05-27T18:40:32.100Z",
+    "createdAt": "2026-07-06T15:00:48.121Z",
+    "updatedAt": "2026-07-06T15:00:48.121Z",
     "__v": 0
   },
   {
-    "_id": "683607208aeca14588dd89e9",
-    "user": "683607208aeca14588dd89ea",
+    "_id": "6a4bc320d5b0d7ba7f0cdaa3",
+    "user": "6a4bc320d5b0d7ba7f0cdaa4",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd8938"
+          "6a4bc318d5b0d7ba7f0cd9e8"
         ],
-        "_id": "683607208aeca14588dd89ed"
+        "_id": "6a4bc320d5b0d7ba7f0cdaa7"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:32.465Z",
-    "updatedAt": "2025-05-27T18:40:32.465Z",
+    "createdAt": "2026-07-06T15:00:48.371Z",
+    "updatedAt": "2026-07-06T15:00:48.371Z",
     "__v": 0
   },
   {
-    "_id": "683607208aeca14588dd89ef",
-    "user": "683607208aeca14588dd89f0",
+    "_id": "6a4bc320d5b0d7ba7f0cdaa9",
+    "user": "6a4bc320d5b0d7ba7f0cdaaa",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd8939"
+          "6a4bc318d5b0d7ba7f0cd9e9"
         ],
-        "_id": "683607208aeca14588dd89f3"
+        "_id": "6a4bc320d5b0d7ba7f0cdaad"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:32.824Z",
-    "updatedAt": "2025-05-27T18:40:32.824Z",
+    "createdAt": "2026-07-06T15:00:48.621Z",
+    "updatedAt": "2026-07-06T15:00:48.621Z",
     "__v": 0
   },
   {
-    "_id": "683607208aeca14588dd89f5",
-    "user": "683607208aeca14588dd89f6",
+    "_id": "6a4bc320d5b0d7ba7f0cdaaf",
+    "user": "6a4bc320d5b0d7ba7f0cdab0",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd893a"
+          "6a4bc318d5b0d7ba7f0cd9ea"
         ],
-        "_id": "683607218aeca14588dd89f9"
+        "_id": "6a4bc320d5b0d7ba7f0cdab3"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:33.172Z",
-    "updatedAt": "2025-05-27T18:40:33.172Z",
+    "createdAt": "2026-07-06T15:00:48.870Z",
+    "updatedAt": "2026-07-06T15:00:48.870Z",
     "__v": 0
   },
   {
-    "_id": "683607218aeca14588dd89fb",
-    "user": "683607218aeca14588dd89fc",
+    "_id": "6a4bc320d5b0d7ba7f0cdab5",
+    "user": "6a4bc320d5b0d7ba7f0cdab6",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd893b"
+          "6a4bc318d5b0d7ba7f0cd9eb"
         ],
-        "_id": "683607218aeca14588dd89ff"
+        "_id": "6a4bc321d5b0d7ba7f0cdab9"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:33.521Z",
-    "updatedAt": "2025-05-27T18:40:33.521Z",
+    "createdAt": "2026-07-06T15:00:49.123Z",
+    "updatedAt": "2026-07-06T15:00:49.123Z",
     "__v": 0
   },
   {
-    "_id": "683607218aeca14588dd8a01",
-    "user": "683607218aeca14588dd8a02",
+    "_id": "6a4bc321d5b0d7ba7f0cdabb",
+    "user": "6a4bc321d5b0d7ba7f0cdabc",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd893c"
+          "6a4bc318d5b0d7ba7f0cd9ef"
         ],
-        "_id": "683607218aeca14588dd8a05"
+        "_id": "6a4bc321d5b0d7ba7f0cdabf"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:33.871Z",
-    "updatedAt": "2025-05-27T18:40:33.871Z",
+    "createdAt": "2026-07-06T15:00:49.371Z",
+    "updatedAt": "2026-07-06T15:00:49.371Z",
     "__v": 0
   },
   {
-    "_id": "683607228aeca14588dd8a07",
-    "user": "683607228aeca14588dd8a08",
+    "_id": "6a4bc321d5b0d7ba7f0cdac1",
+    "user": "6a4bc321d5b0d7ba7f0cdac2",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd893d"
+          "6a4bc318d5b0d7ba7f0cd9f0"
         ],
-        "_id": "683607228aeca14588dd8a0b"
+        "_id": "6a4bc321d5b0d7ba7f0cdac5"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:34.221Z",
-    "updatedAt": "2025-05-27T18:40:34.221Z",
+    "createdAt": "2026-07-06T15:00:49.803Z",
+    "updatedAt": "2026-07-06T15:00:49.803Z",
     "__v": 0
   },
   {
-    "_id": "683607228aeca14588dd8a0d",
-    "user": "683607228aeca14588dd8a0e",
+    "_id": "6a4bc321d5b0d7ba7f0cdac7",
+    "user": "6a4bc321d5b0d7ba7f0cdac8",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8955",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0d",
         "grades": [
-          "683607178aeca14588dd893e"
+          "6a4bc318d5b0d7ba7f0cd9f1"
         ],
-        "_id": "683607228aeca14588dd8a11"
+        "_id": "6a4bc322d5b0d7ba7f0cdacb"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:34.571Z",
-    "updatedAt": "2025-05-27T18:40:34.571Z",
+    "createdAt": "2026-07-06T15:00:50.216Z",
+    "updatedAt": "2026-07-06T15:00:50.216Z",
     "__v": 0
   },
   {
-    "_id": "683607228aeca14588dd8a13",
-    "user": "683607228aeca14588dd8a14",
+    "_id": "6a4bc322d5b0d7ba7f0cdacd",
+    "user": "6a4bc322d5b0d7ba7f0cdace",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd8933"
+          "6a4bc318d5b0d7ba7f0cd9e6"
         ],
-        "_id": "683607228aeca14588dd8a17"
+        "_id": "6a4bc322d5b0d7ba7f0cdad1"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:34.926Z",
-    "updatedAt": "2025-05-27T18:40:34.926Z",
+    "createdAt": "2026-07-06T15:00:50.753Z",
+    "updatedAt": "2026-07-06T15:00:50.753Z",
     "__v": 0
   },
   {
-    "_id": "683607238aeca14588dd8a19",
-    "user": "683607238aeca14588dd8a1a",
+    "_id": "6a4bc322d5b0d7ba7f0cdad3",
+    "user": "6a4bc322d5b0d7ba7f0cdad4",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd8934"
+          "6a4bc318d5b0d7ba7f0cd9e7"
         ],
-        "_id": "683607238aeca14588dd8a1d"
+        "_id": "6a4bc323d5b0d7ba7f0cdad7"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:35.285Z",
-    "updatedAt": "2025-05-27T18:40:35.285Z",
+    "createdAt": "2026-07-06T15:00:51.044Z",
+    "updatedAt": "2026-07-06T15:00:51.044Z",
     "__v": 0
   },
   {
-    "_id": "683607238aeca14588dd8a1f",
-    "user": "683607238aeca14588dd8a20",
+    "_id": "6a4bc323d5b0d7ba7f0cdad9",
+    "user": "6a4bc323d5b0d7ba7f0cdada",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd8935"
+          "6a4bc318d5b0d7ba7f0cd9e8"
         ],
-        "_id": "683607238aeca14588dd8a23"
+        "_id": "6a4bc323d5b0d7ba7f0cdadd"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:35.637Z",
-    "updatedAt": "2025-05-27T18:40:35.637Z",
+    "createdAt": "2026-07-06T15:00:51.303Z",
+    "updatedAt": "2026-07-06T15:00:51.303Z",
     "__v": 0
   },
   {
-    "_id": "683607238aeca14588dd8a25",
-    "user": "683607238aeca14588dd8a26",
+    "_id": "6a4bc323d5b0d7ba7f0cdadf",
+    "user": "6a4bc323d5b0d7ba7f0cdae0",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd8936"
+          "6a4bc318d5b0d7ba7f0cd9e9"
         ],
-        "_id": "683607238aeca14588dd8a29"
+        "_id": "6a4bc323d5b0d7ba7f0cdae3"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:35.992Z",
-    "updatedAt": "2025-05-27T18:40:35.992Z",
+    "createdAt": "2026-07-06T15:00:51.556Z",
+    "updatedAt": "2026-07-06T15:00:51.556Z",
     "__v": 0
   },
   {
-    "_id": "683607248aeca14588dd8a2b",
-    "user": "683607248aeca14588dd8a2c",
+    "_id": "6a4bc323d5b0d7ba7f0cdae5",
+    "user": "6a4bc323d5b0d7ba7f0cdae6",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd8937"
+          "6a4bc318d5b0d7ba7f0cd9ea"
         ],
-        "_id": "683607248aeca14588dd8a2f"
+        "_id": "6a4bc323d5b0d7ba7f0cdae9"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:36.343Z",
-    "updatedAt": "2025-05-27T18:40:36.343Z",
+    "createdAt": "2026-07-06T15:00:51.807Z",
+    "updatedAt": "2026-07-06T15:00:51.807Z",
     "__v": 0
   },
   {
-    "_id": "683607248aeca14588dd8a31",
-    "user": "683607248aeca14588dd8a32",
+    "_id": "6a4bc323d5b0d7ba7f0cdaeb",
+    "user": "6a4bc323d5b0d7ba7f0cdaec",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd893b"
+          "6a4bc318d5b0d7ba7f0cd9eb"
         ],
-        "_id": "683607248aeca14588dd8a35"
+        "_id": "6a4bc324d5b0d7ba7f0cdaef"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:36.700Z",
-    "updatedAt": "2025-05-27T18:40:36.700Z",
+    "createdAt": "2026-07-06T15:00:52.056Z",
+    "updatedAt": "2026-07-06T15:00:52.056Z",
     "__v": 0
   },
   {
-    "_id": "683607248aeca14588dd8a37",
-    "user": "683607248aeca14588dd8a38",
+    "_id": "6a4bc324d5b0d7ba7f0cdaf1",
+    "user": "6a4bc324d5b0d7ba7f0cdaf2",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd893c"
+          "6a4bc318d5b0d7ba7f0cd9ec"
         ],
-        "_id": "683607258aeca14588dd8a3b"
+        "_id": "6a4bc324d5b0d7ba7f0cdaf5"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:37.060Z",
-    "updatedAt": "2025-05-27T18:40:37.060Z",
+    "createdAt": "2026-07-06T15:00:52.302Z",
+    "updatedAt": "2026-07-06T15:00:52.302Z",
     "__v": 0
   },
   {
-    "_id": "683607258aeca14588dd8a3d",
-    "user": "683607258aeca14588dd8a3e",
+    "_id": "6a4bc324d5b0d7ba7f0cdaf7",
+    "user": "6a4bc324d5b0d7ba7f0cdaf8",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0e",
         "grades": [
-          "683607178aeca14588dd893d"
+          "6a4bc318d5b0d7ba7f0cd9f1"
         ],
-        "_id": "683607258aeca14588dd8a41"
+        "_id": "6a4bc324d5b0d7ba7f0cdafb"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:37.406Z",
-    "updatedAt": "2025-05-27T18:40:37.406Z",
+    "createdAt": "2026-07-06T15:00:52.555Z",
+    "updatedAt": "2026-07-06T15:00:52.555Z",
     "__v": 0
   },
   {
-    "_id": "683607258aeca14588dd8a43",
-    "user": "683607258aeca14588dd8a44",
+    "_id": "6a4bc324d5b0d7ba7f0cdafd",
+    "user": "6a4bc324d5b0d7ba7f0cdafe",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8956",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0f",
         "grades": [
-          "683607178aeca14588dd893e"
+          "6a4bc318d5b0d7ba7f0cd9e6"
         ],
-        "_id": "683607258aeca14588dd8a47"
+        "_id": "6a4bc324d5b0d7ba7f0cdb01"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:37.760Z",
-    "updatedAt": "2025-05-27T18:40:37.760Z",
+    "createdAt": "2026-07-06T15:00:52.803Z",
+    "updatedAt": "2026-07-06T15:00:52.803Z",
     "__v": 0
   },
   {
-    "_id": "683607258aeca14588dd8a49",
-    "user": "683607258aeca14588dd8a4a",
+    "_id": "6a4bc324d5b0d7ba7f0cdb03",
+    "user": "6a4bc324d5b0d7ba7f0cdb04",
     "teachingAssignments": [
       {
-        "subject": "683607188aeca14588dd8957",
+        "subject": "6a4bc31ad5b0d7ba7f0cda0f",
         "grades": [
-          "683607178aeca14588dd8933"
+          "6a4bc318d5b0d7ba7f0cd9e7"
         ],
-        "_id": "683607268aeca14588dd8a4d"
+        "_id": "6a4bc325d5b0d7ba7f0cdb07"
       }
     ],
     "specializations": [
       "Science"
     ],
-    "createdAt": "2025-05-27T18:40:38.116Z",
-    "updatedAt": "2025-05-27T18:40:38.116Z",
+    "createdAt": "2026-07-06T15:00:53.051Z",
+    "updatedAt": "2026-07-06T15:00:53.051Z",
     "__v": 0
   }
 ]

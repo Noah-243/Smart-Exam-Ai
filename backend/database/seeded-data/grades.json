@@ -1,74 +1,98 @@
 [
   {
-    "_id": "683607178aeca14588dd8933",
+    "_id": "6a4bc318d5b0d7ba7f0cd9e6",
     "name": "First Grade",
     "level": 1,
+    "createdAt": "2026-07-06T15:00:40.601Z",
+    "updatedAt": "2026-07-06T15:00:40.601Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd8934",
+    "_id": "6a4bc318d5b0d7ba7f0cd9e7",
     "name": "Second Grade",
     "level": 2,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd8935",
+    "_id": "6a4bc318d5b0d7ba7f0cd9e8",
     "name": "Third Grade",
     "level": 3,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd8936",
+    "_id": "6a4bc318d5b0d7ba7f0cd9e9",
     "name": "Fourth Grade",
     "level": 4,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd8937",
+    "_id": "6a4bc318d5b0d7ba7f0cd9ea",
     "name": "Fifth Grade",
     "level": 5,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd8939",
-    "name": "Seventh Grade",
-    "level": 7,
-    "__v": 0
-  },
-  {
-    "_id": "683607178aeca14588dd8938",
+    "_id": "6a4bc318d5b0d7ba7f0cd9eb",
     "name": "Sixth Grade",
     "level": 6,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd893a",
+    "_id": "6a4bc318d5b0d7ba7f0cd9ec",
+    "name": "Seventh Grade",
+    "level": 7,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc318d5b0d7ba7f0cd9ed",
     "name": "Eighth Grade",
     "level": 8,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd893c",
-    "name": "Tenth Grade",
-    "level": 10,
-    "__v": 0
-  },
-  {
-    "_id": "683607178aeca14588dd893d",
-    "name": "Eleventh Grade",
-    "level": 11,
-    "__v": 0
-  },
-  {
-    "_id": "683607178aeca14588dd893b",
+    "_id": "6a4bc318d5b0d7ba7f0cd9ee",
     "name": "Ninth Grade",
     "level": 9,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   },
   {
-    "_id": "683607178aeca14588dd893e",
+    "_id": "6a4bc318d5b0d7ba7f0cd9ef",
+    "name": "Tenth Grade",
+    "level": 10,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc318d5b0d7ba7f0cd9f0",
+    "name": "Eleventh Grade",
+    "level": 11,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a4bc318d5b0d7ba7f0cd9f1",
     "name": "Twelfth Grade",
     "level": 12,
+    "createdAt": "2026-07-06T15:00:40.602Z",
+    "updatedAt": "2026-07-06T15:00:40.602Z",
     "__v": 0
   }
 ]
