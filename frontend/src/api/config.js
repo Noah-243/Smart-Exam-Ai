@@ -22,7 +22,7 @@
 import axios from "axios";
 
 // Use relative path for better compatibility with Vite proxy
-const API_URL = "/api";
+const API_URL = import.meta.env.VITE_API_URL || "/api";
 const STORAGE_KEY = "SES-USER";
 
 const axiosInstance = axios.create({
